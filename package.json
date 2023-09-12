@@ -1,0 +1,11 @@
+{
+  "name": "highlight.js-func",
+  "version": "1.0.0",
+  "description": "highlight.js syntax definition for the TON FunC language",
+  "main": "src/func.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gunnar@bakkenbaeck.no",
+  "license": "ISC"
+}
