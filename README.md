@@ -1,6 +1,6 @@
 Highlight.js language definition for TON Tact
 
-# Tact - a langauge grammar for [highlight.js](https://highlightjs.org/)
+# Tact - a language grammar for [highlight.js](https://highlightjs.org/)
 
 ## Usage
 
