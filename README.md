@@ -1,6 +1,6 @@
-Highlight.js language definition for TON FunC
+Highlight.js language definition for TON Tact
 
-# FunC - a langauge grammar for [highlight.js](https://highlightjs.org/)
+# Tact - a langauge grammar for [highlight.js](https://highlightjs.org/)
 
 ## Usage
 
@@ -15,4 +15,4 @@ for details.
 
 - The official site for the Highlight.js library is <https://highlightjs.org/>.
 - The Highlight.js GitHub project: <https://github.com/highlightjs/highlight.js>
-- Learn more about FunC: <https://docs.ton.org/develop/func/overview>
+- Learn more about Tact: <https://tact-lang.org/>

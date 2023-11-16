@@ -1,8 +1,8 @@
 {
-  "name": "highlight.js-func",
+  "name": "highlight.js-tact",
   "version": "1.0.0",
-  "description": "highlight.js syntax definition for the TON FunC language",
-  "main": "src/func.js",
+  "description": "highlight.js syntax definition for the TON Tact language",
+  "main": "src/tact.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
